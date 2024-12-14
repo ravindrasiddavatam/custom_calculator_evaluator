@@ -1,0 +1,7 @@
+display "Welcome to the right triangle calculator!\n"
+input A
+input B
+A := A^2
+B := B^2
+display "The Hyptoenuse is:  "
+display sqrt (A + B)
